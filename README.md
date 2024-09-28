@@ -27,9 +27,7 @@ Required Python packages (listed in requirements.txt)
 # Usage
 Run the Program: Open your terminal and navigate to the project directory. Execute the following command to start the program:
 
-bash
-Copy code
-python typewriter.py
+```python typing_racing.py```
 Follow the Instructions: Once the program is running, follow the instructions provided in the terminal. You’ll be guided through the steps to utilize the typing features.
 
 # License
